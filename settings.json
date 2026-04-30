@@ -5,8 +5,7 @@
     "password": "",
     "type": "offline"
   },
-  "server": {
-    "ip": "dynamic-6.magmanode.com",
+  "server": "gold.magmanode.com",
     "port": 25598,
     "version": "1.21.11"
   },
